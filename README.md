@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="Assets/LoneHandymanTitle.gif" width="500" height="50" />
+<img src="Assets/LoneHandymanTitle.gif" width="935" height="176" />
 
 Here are some ideas to get you started:
 
