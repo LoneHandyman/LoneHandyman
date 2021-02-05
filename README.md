@@ -4,7 +4,7 @@
 
 About me:
 
-<div>
+<div style="float:left; display:inline-block; ">
   <span style="float:left;width: 20%;">
     <img src="Assets/ProfilePhotoPixelated.png" width="100" height="120" /> 
   </span>
