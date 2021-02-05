@@ -2,7 +2,7 @@
 
 <img align="center" src="Assets/LoneHandymanTitle.gif" width="935" height="176" />
 
-<img align="left" src="Assets/ProfilePhotoPixelated.png" width="160" height="100" />
+<img align="left" src="Assets/ProfilePhotoPixelated.gif" width="160" height="164" />
 About me:
 
 - 👯 I’m looking to collaborate on open source projects.
