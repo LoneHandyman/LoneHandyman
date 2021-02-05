@@ -10,6 +10,6 @@
 
 <fieldset>
 <img align="left" src="Assets/Profile/ProfilePhotoPixelated.gif" width="170" height="176"/>
-<img align="right" src="Assets/Descriptions/AboutMe.png" width="720" height="118"/>
+<img align="right" src="Assets/Descriptions/AboutMe.png" width="600" height="99"/>
 </fieldset>
 
