@@ -10,6 +10,11 @@ About me:
   </span>
   <span style="float:right;width: 80%;">
     - 👯 I’m looking to collaborate on open source projects.
+    - 👯 I’m looking to collaborate on open source projects.
+    - 👯 I’m looking to collaborate on open source projects.
+    - 👯 I’m looking to collaborate on open source projects.
+    - 👯 I’m looking to collaborate on open source projects.
+    - 👯 I’m looking to collaborate on open source projects.
   </span>
 </div>
 
