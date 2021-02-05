@@ -4,5 +4,5 @@
 
 About me:
 
-- 👯 I’m looking to collaborate on open source projects.
+<img src="Assets/ProfilePhotoPixelated.png" width="50" height="60" /> - 👯 I’m looking to collaborate on open source projects.
 
