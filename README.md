@@ -10,7 +10,7 @@
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 
 <fieldset>
-<img align="left" margin="20px" src="Assets/Profile/ProfilePhotoPixelated.gif" width="170" height="176"/>
+<img align="left" margin-left="20px" src="Assets/Profile/ProfilePhotoPixelated.gif" width="170" height="176"/>
 <img align="right" src="Assets/Descriptions/AboutMe.png" width="600" height="99"/>
 </fieldset>
 
