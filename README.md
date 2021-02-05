@@ -3,7 +3,9 @@
 <img align="center" src="Assets/Titles/LoneHandymanTitle.gif" width="935" height="176" />
 
 
-## Languages and Tools
+<div align="center">
+  <h style="font-size:50px"><strong>Languages and Tools</strong></h>
+</div>
 <div align="center">
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
