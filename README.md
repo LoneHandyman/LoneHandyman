@@ -9,7 +9,7 @@
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 
 <fieldset>
-<img align="left" src="Assets/Profile/ProfilePhotoPixelated.gif" width="200" height="206"/>
+<img align="left" src="Assets/Profile/ProfilePhotoPixelated.gif" width="190" height="196"/>
 <img align="right" src="Assets/Descriptions/AboutMe.png" width="720" height="118"/>
 </fieldset>
 
