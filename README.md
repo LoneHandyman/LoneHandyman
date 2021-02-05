@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm:
 
 <img src="Assets/LoneHandymanTitle.gif" width="935" height="176" />
 
-Here are some ideas to get you started:
+About me:
 
 - 👯 I’m looking to collaborate on open source projects.
 
