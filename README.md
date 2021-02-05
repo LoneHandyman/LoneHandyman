@@ -2,12 +2,7 @@
 
 <img align="center" src="Assets/Titles/LoneHandymanTitle.gif" width="935" height="176" />
 
-<div align="center">
-<img align="left" src="Assets/Profile/ProfilePhotoPixelated.gif" width="200" height="206" />
-<img align="right" src="Assets/Descriptions/AboutMe.png" width="720" height="118" />
-</div>
-
-|Tables        | Are   |
+|About        | Me   |
 |------------- | -----:|
 |<img align="left" src="Assets/Profile/ProfilePhotoPixelated.gif" width="200" height="206"/>|<img align="right" src="Assets/Descriptions/AboutMe.png" width="720" height="118"/>|
 
