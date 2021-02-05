@@ -4,5 +4,5 @@
 
 <div align="center">
   <img align="left" src="Assets/Profile/ProfilePhotoPixelated.gif" width="240" height="246" />
-  <img align="right" src="Assets/Descriptions/AboutMe.png" width="750" height="123" />
+  <img align="right" src="Assets/Descriptions/AboutMe.png" width="740" height="121" />
 </div>
