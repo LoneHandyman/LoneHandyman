@@ -1,14 +1,14 @@
 ### Hi there 👋! I'm:
 
-<img align="center" src="Assets/Titles/LoneHandymanTitle.gif" width="700" height="132" alt="LoneHandyman Title" />
+<img align="center" src="Assets/Titles/LoneHandymanTitle.gif" width=auto height="132" alt="LoneHandyman Title" />
 
 <h5 style="color:gray;">Italo Mamani Huaricallo</h5>
-<div align="center">
-  [![Python Developer](https://img.shields.io/badge/Python%20Developer-3572A5?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-  [![Data Automation (Pandas & SQL)](https://img.shields.io/badge/Data%20Automation%20(Pandas%20%26%20SQL)-4DB33D?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-  [![Web Development (FastAPI, Django)](https://img.shields.io/badge/Web%20Development%20(FastAPI%2C%20Django)-00A8E1?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-  [![Data Analysis](https://img.shields.io/badge/Data%20Analysis-F0DB4F?style=for-the-badge&logo=data-analysis&logoColor=black)](https://jupyter.org/)
-</div>
+
+[![Python Developer](https://img.shields.io/badge/Python%20Developer-3572A5?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Data Automation (Pandas & SQL)](https://img.shields.io/badge/Data%20Automation%20%28Pandas%20%26%20SQL%29-4DB33D?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Web Development (FastAPI, Django)](https://img.shields.io/badge/Web%20Development%20%28FastAPI%2C%20Django%29-00A8E1?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Data Analysis](https://img.shields.io/badge/Data%20Analysis-F0DB4F?style=for-the-badge)](https://jupyter.org/)
+
 ---
 
 I'm a **Python Developer** with a strong passion for **data automation** and **web development**. With practical experience in managing and optimizing data, particularly within Human Resources, my goal is to build efficient, scalable, and results-driven software solutions.
