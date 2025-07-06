@@ -11,18 +11,18 @@ I'm a **highly autonomous and collaborative team player**, always eager to learn
 ### **Technologies and Tools I Master:**
 
 <div align="center">
-  <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
-  <code><img height="38" src="https://skillicons.dev/icons?i=pandas" alt="Pandas"></code>
-  <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL"></code>
-  <code><img height="38" src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI"></code>
-  <code><img height="38" src="https://skillicons.dev/icons?i=django" alt="Django"></code>
-  <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code>
-  <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code>
-  <code><img height="38" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"></code>
-  <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></code>
-  <code><img height="38" src="https://skillicons.dev/icons?i=jquery" alt="jQuery"></code>
-  <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++"></code>
-  <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
+  <code><img height="30" src="https://skillicons.dev/icons?i=pandas" alt="Pandas"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL"></code>
+  <code><img height="30" src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI"></code>
+  <code><img height="30" src="https://skillicons.dev/icons?i=django" alt="Django"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code>
+  <code><img height="30" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></code>
+  <code><img height="30" src="https://skillicons.dev/icons?i=jquery" alt="jQuery"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js"></code>
 </div>
 
 ---
